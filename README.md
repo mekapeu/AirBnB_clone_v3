@@ -8,7 +8,7 @@ database, storage, RESTful API, Web Framework, and Front End.
 
 ## Environment
 
-* __OS:__ Ubuntu 14.04 LTS
+* __OS:__ Ubuntu 20.04 LTS
 * __language:__ Python 3.4.3
 * __style:__ PEP 8 (v. 1.7.0)
 
@@ -88,7 +88,7 @@ github repo
 
 ## Authors
 
-* kah tchek mekapeu d'avilla, [mekapeu](https://github.com/)
+* kah tchek mekapeu d'avilla, [mekapeu](https://github.com/) <p>- davidkah701@gmail.com</p>
 
 ## License
 
